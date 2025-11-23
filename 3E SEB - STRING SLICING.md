@@ -22,8 +22,8 @@ To write a Python function that accepts a string and forms a new string by rever
 
 ### PROGRAM
 
-REG No. : 212222220032
-NAME : Rahul B
+REG No. : 212222220025
+NAME :  Mohamed Munthasir Y
 
 ```
 def slice(a):
